@@ -45,13 +45,8 @@
 
 /* Cambiar el color de fondo y aumentar el resplandor al pasar el mouse */
 .button:hover {
-  background-color: #ff0000;
+  background-color: #9675e881;
   color: #000;
-  box-shadow: 
-    0 0 10px #ff0000, 
-    0 0 20px #ff3333, 
-    0 0 30px #ff6666, 
-    0 0 40px #ff9999;
 }
   
   /* Estilo adicional para un botón secundario */

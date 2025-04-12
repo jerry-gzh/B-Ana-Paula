@@ -1,7 +1,7 @@
 {
   "name": "b-a-p",
   "version": "0.1.0",
-  "homepage": "https://github.com/jerry-gzh/B-Ana-Paula",
+  "homepage": "https://jerry-gzh.github.io/B-Ana-Paula",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
