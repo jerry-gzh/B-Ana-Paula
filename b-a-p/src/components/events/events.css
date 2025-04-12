@@ -1,0 +1,65 @@
+.portada_img {
+  margin-bottom: 1.5rem;
+  width: 80%; /* Hacer que la imagen ocupe todo el ancho del contenedor */
+  display: block; /* Asegurar que la imagen sea un elemento de bloque */
+  margin: 0 auto; /* Centrar horizontalmente la imagen */
+  margin-bottom: 25px; /* Espacio entre la imagen y el botón */
+}
+
+.event_img {
+    margin-bottom: 1.5rem;
+    width: 80%; /* Hacer que la imagen ocupe todo el ancho del contenedor */
+    display: block; /* Asegurar que la imagen sea un elemento de bloque */
+    margin: 0 auto; /* Centrar horizontalmente la imagen */
+    margin-bottom: 30px; /* Espacio entre la imagen y el botón */
+    opacity: 0.775; /* Ajusta el nivel de transparencia (0 es completamente transparente, 1 es completamente opaco) */
+}
+
+/* Estilo base del botón con efecto neón */
+.button {
+  font-family: "Delius Swash Caps", cursive;
+  display: inline-block;
+  padding: 10px 20px;
+  width: 80%;
+  background-color: #FBDAC4; /* Fondo oscuro para resaltar el neón */
+  color: #C28D91;
+  border: 2px solid #d0912b; /* Borde rojo neón */
+  border-radius: 5px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  font-size: 3.75vw;
+  font-weight: bold;
+  letter-spacing: 1px;
+  transition: all 0.3s ease-in-out;
+  margin-bottom: 35px;
+
+  /* Efecto de neón */
+  box-shadow: 
+  0 0 2px #d98b7f,   /* soft rose highlight */
+  0 0 4px #e6a396, 
+  0 0 8px #f2bab0, 
+  0 0 16px #f9ccc2, 
+  0 0 32px #ffe6e1;
+}
+
+/* Cambiar el color de fondo y aumentar el resplandor al pasar el mouse */
+.button:hover {
+  background-color: #ff0000;
+  color: #000;
+  box-shadow: 
+    0 0 10px #ff0000, 
+    0 0 20px #ff3333, 
+    0 0 30px #ff6666, 
+    0 0 40px #ff9999;
+}
+  
+  /* Estilo adicional para un botón secundario */
+  .secondary-button {
+    background-color: #e74c3c;
+  }
+  
+  .secondary-button:hover {
+    background-color: #c0392b;
+  }
+  

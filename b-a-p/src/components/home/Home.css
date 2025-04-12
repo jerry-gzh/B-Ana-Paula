@@ -1,0 +1,32 @@
+.home {
+  font-family: "Delius Swash Caps", cursive;
+  color: #ffffff;
+  align-items: center; 
+  background: linear-gradient(to bottom, #316d39 0%, rgba(188, 36, 36, 0) 0%);
+  margin: 50px auto 1px; /* Arriba | Horizontal | Abajo */
+  width: 82%;
+}
+
+.home__img {
+  margin: 1px auto;
+  width: 100%;
+}
+
+/* Neon effect for timer text */
+#timer {
+  font-size: 5vw;
+  margin: 40px auto 20px;
+  padding-bottom: 10px;
+  color: #d0912b; /* Soft gold highlight */
+  text-shadow: 
+  0 0 2px #d98b7f,   /* soft rose highlight */
+  0 0 4px #e6a396, 
+  0 0 8px #f2bab0, 
+  0 0 16px #f9ccc2, 
+  0 0 32px #ffe6e1;
+  font-weight: bold;
+}
+#timer h3 {
+  margin-bottom: 15px;
+  font-size: 5.5vw;
+}
