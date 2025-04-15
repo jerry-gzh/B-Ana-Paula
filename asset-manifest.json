@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/B-Ana-Paula/static/css/main.d146ef62.css",
-    "main.js": "/B-Ana-Paula/static/js/main.5a6586e1.js",
+    "main.js": "/B-Ana-Paula/static/js/main.fdcf1eb9.js",
     "static/js/453.9e923740.chunk.js": "/B-Ana-Paula/static/js/453.9e923740.chunk.js",
     "static/media/background.png": "/B-Ana-Paula/static/media/background.19ea8b90f81a1cf4f3c8.png",
     "static/media/b.jpg": "/B-Ana-Paula/static/media/b.9031032519c4b953e7db.jpg",
@@ -9,11 +9,11 @@
     "static/media/a.jpg": "/B-Ana-Paula/static/media/a.1a0f115b813de840b5a5.jpg",
     "index.html": "/B-Ana-Paula/index.html",
     "main.d146ef62.css.map": "/B-Ana-Paula/static/css/main.d146ef62.css.map",
-    "main.5a6586e1.js.map": "/B-Ana-Paula/static/js/main.5a6586e1.js.map",
+    "main.fdcf1eb9.js.map": "/B-Ana-Paula/static/js/main.fdcf1eb9.js.map",
     "453.9e923740.chunk.js.map": "/B-Ana-Paula/static/js/453.9e923740.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d146ef62.css",
-    "static/js/main.5a6586e1.js"
+    "static/js/main.fdcf1eb9.js"
   ]
 }
